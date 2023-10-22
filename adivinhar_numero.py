@@ -38,7 +38,7 @@ while palpite != numeroAleatorio :
         dica = ""
     
     # Caso O Usuário Erre
-    print ( f"Errou !!! Tente Novamente" )
+    print ( "Errou !!! Tente Novamente" )
     print ( dica )
     tentativas = tentativas + 1 # Incrementa A Quantidade De Tentativas
 
